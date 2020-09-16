@@ -1,3 +1,7 @@
+# um programa que leia o ano de nascimento de uma pessoa e diga
+# se ainda vai, está na hora ou se passou do tempo de se alistar
+# assim como o tempo que falta ou que passou do prazo
+
 import datetime
 now = datetime.datetime.now()
 ano = int(input('digite o ano do seu nascimento: '))

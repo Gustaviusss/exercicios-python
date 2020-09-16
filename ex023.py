@@ -1,3 +1,4 @@
+# um programa que divida um numero entre unidade, dezena, centena e milhar
 num = int(input('digite um numero entre 0 e 9999: '))
 u = num // 1 % 10
 d = num // 10 % 10

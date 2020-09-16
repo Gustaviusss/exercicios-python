@@ -1,3 +1,8 @@
+# um programa para aprovar um empréstimo bancário para compra de uma casa
+# ler o valor da casa, o salário do comprador e em quantos anos ele vai pagar
+# calcular o valor da prestação mensal sabendo que ela não pode exceder 30% do
+# salário do comprador ou o empréstimo será negado.
+
 casa = float(input('Digite o preço da casa: '))
 sal = float(input('Digite o seu salário: '))
 tempo = int(input('Em quantos anos deseja pagar? '))

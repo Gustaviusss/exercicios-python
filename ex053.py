@@ -1,3 +1,6 @@
+# um programa que leia uma frase qualquer e diga se é um palíndromo.
+# apos a sopa, a sacada da casa, a torre da derrota, etc.
+
 frase = str(input('Digite uma Frase: ')).strip().upper()
 palavras = frase.split()
 junto = ''.join(palavras)

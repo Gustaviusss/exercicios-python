@@ -1,3 +1,5 @@
+# um programa que calcule o valor a ser pago por um produto de acordo com o método de pagamento.
+
 preco = float(input('Digite o preço normal do produto: '))
 pag = int(input(
     """Escolha entre uma das formas de pagamento abaixo:

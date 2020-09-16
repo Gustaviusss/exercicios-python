@@ -1,3 +1,4 @@
+# um programa que mostre seno, coseno e tangente de um angulo
 from math import sin, cos, tan, radians
 ang = float(input('digite um angulo: '))
 

@@ -1,3 +1,4 @@
+# um programa que jogue Jokenpô com o usuário
 from random import randint
 p1 = input('pedra, papel ou tesoura?').lower().strip()
 comandos = ['pedra', 'papel', 'tesoura']

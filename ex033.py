@@ -1,3 +1,5 @@
+# um programa que checa o maior e menor número entre 3
+
 n1 = int(input('digite um numero: '))
 maior = n1
 n2 = int(input('digite outro numero: '))

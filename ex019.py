@@ -1,3 +1,4 @@
+# um programa que sorteie um aluno
 from random import randint
 nome1 = input('primeiro aluno: ')
 nome2 = input('segundo aluno: ')

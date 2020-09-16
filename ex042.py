@@ -1,3 +1,5 @@
+# refazer o desafio 35 mostrando que tipo de trângulo as retas formam
+
 a = int(input('digite o comprimeiro da primeira reta: '))
 b = int(input('digite o comprimento da segunda reta: '))
 c = int(input('digite o comprimento da terceira reta: '))

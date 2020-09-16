@@ -1,3 +1,5 @@
+# um programa que procura letras numa frase
+
 frase = input('digite uma frase: ').lower().strip()
 
 print('quantidade de letras A', frase.count('a'))

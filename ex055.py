@@ -1,3 +1,5 @@
+# um programa que leia o peso de 5 pessoas e mostre qual o maior e o menor peso.
+
 maior = 0
 menor = 0
 

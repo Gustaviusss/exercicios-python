@@ -1,3 +1,4 @@
+# um programa que diz o que o input é ou não
 content = input('digite algo: ')
 print(content.isalnum(),
       content.isalpha(),

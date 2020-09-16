@@ -1,3 +1,4 @@
+# um programa que mostre o dobro, triplo e raiz de um numero
 num = int(input('digite um numero: '))
 dobro = num*2
 triplo = num*3

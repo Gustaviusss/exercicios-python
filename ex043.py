@@ -1,3 +1,5 @@
+# um programa que calcule o imc e mostre o resultado na tela
+
 alt = float(input('digite sua altura: '))
 peso = float(input('Digite seu peso: '))
 imc = peso / (alt*alt)

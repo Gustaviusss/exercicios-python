@@ -1,3 +1,4 @@
+# um programa que sorteie a ordem de apresentação de alunos
 from random import shuffle
 nome1 = input('primeiro aluno: ')
 nome2 = input('segundo aluno: ')

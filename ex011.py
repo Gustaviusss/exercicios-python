@@ -1,3 +1,5 @@
+# um programa que diga quantos litros de tinta são necessários para pintar uma parede
+
 width = float(input('qual a largura da parede? '))
 height = float(input('qual a altura da parede? '))
 area = width*height

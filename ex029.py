@@ -1,3 +1,5 @@
+# um programa que aplica multa caso passe do limite de velocidade
+
 vel = int(input('Qual a velocidade do carro? '))
 vel_max = 80
 if vel > vel_max:

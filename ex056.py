@@ -1,3 +1,8 @@
+# Um programa que leia o nome, idade e sexo de 4 pessoas e mostre:
+# A média de idade das pessoas
+# qual o nome do homem mais velho
+# quantas mulheres tem menos de 20 anos
+
 somaidade = 0
 mediaidade = 0
 maioridadehomem = 0

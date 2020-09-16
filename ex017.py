@@ -1,3 +1,4 @@
+# um programa que calcule a hipotenusa.
 from math import hypot
 
 cat_op = float(input('qual o comprimento do cateto oposto?'))

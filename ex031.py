@@ -1,3 +1,5 @@
+# um programa que calcula o preço de uma viagem.
+
 distancia = int(input('Digite a distancia da sua viagem em KM: '))
 if distancia <= 200:
     preco = distancia * 0.50
